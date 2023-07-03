@@ -1,5 +1,7 @@
 # my-url-shortener
 
+I'm building a URL shortener in NodeJS that can be self-hosted.
+
 ## Useful documentation
 
 - [A Complete Server: Persistence](https://www.newline.co/books/fullstack-nodejs/a-complete-server-persistence)
